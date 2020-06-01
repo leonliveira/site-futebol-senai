@@ -1,0 +1,133 @@
+.body{
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  
+}
+.header1{
+  background-image: linear-gradient(to bottom right, black 10%, red 80%);
+  height: 64;
+  width: 100%;
+  border-bottom: 5px solid rgb(139, 131, 131);
+}
+.main{
+  width: 1500px;
+  position: relative;
+  margin: 0 auto;
+}
+.logo{
+  float: left;
+  width: 80%;
+}
+.redes-sociais ul li{
+  display: inline-block;
+  float: right;
+  margin: 10px auto;
+  margin-left: 25px;
+  
+}
+.coluna2{
+  width: 1500px;
+  position: relative;
+   margin: 0 auto;
+
+}
+.header-2{
+  background-image: linear-gradient(to bottom right, black 10% , red  80%);
+  width: 100%;
+  height: 45px;
+  float: left; 
+}
+.menu ul li{
+ color: rgba(255, 255, 255, 0.973);
+  display: inline-block;  
+  margin-left: 15px;
+  height: 50px;
+}
+.menu ul li a:hover{
+  border-bottom: 3px  solid #fffbfe;
+}
+
+.menu ul li a:hover{
+  color: #ffd700;
+}
+
+.menu ul li a {
+  color: rgb(251, 251, 255);
+  text-decoration: none;
+  font-style: initial;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.menu{
+  width: 50%;
+  float: left;
+}
+.busca{
+  text-align: center;
+  width: 20%;
+  float: right; 
+}
+.busca input{
+  background-image:url(../img/download\ \(2\).png);
+  background-repeat: no-repeat;
+  background-position: 95%; 
+  height: 30px;
+  margin-top: 5px;
+  padding: 12px;
+  width: 180px;
+  margin-left: 10px;
+  border: 4px solid #44443c;
+}
+.slide input{
+  width: 100%;
+  height: 603px;
+  position: relative;
+  border: black;
+}
+.refe{
+  background-image: linear-gradient(to bottom right, black, red );
+  height: 250;
+  border-bottom: 4px solid lightslategrey;
+}
+.texto{
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+}
+.artigos{
+  margin-top: 40px;
+  box-sizing: border-box;
+  line-height: 20px;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-top: -17px;
+  background-image: linear-gradient(to bottom right, red,black );
+height: 303px;
+}
+.col-md-4{
+  text-align: center;
+  box-sizing: border-box;
+color: rgb(255, 251, 251);
+float: left;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 18px;
+line-height: 20px;
+min-height: 1px;
+padding-left: 15px;
+padding-right: 15px;
+position: relative;
+width: 292.5px;
+margin-top: 15px;
+}
+.bloco-de-imagens{
+  height: 303px;
+  width: 100%;
+  background-image: linear-gradient(to bottom right, red,  black );
+
+}
+
+.time ul li{
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 20px;
+}
